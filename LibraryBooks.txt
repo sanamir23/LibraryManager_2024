@@ -1,0 +1,9 @@
+B2,To Kill a Mockingbird,Harper Lee,9780061120084,1960,Historical Fiction,2.00,false,Novel
+B3,Introduction to Algorithms,Thomas H. Cormen,9780262033848,2009,Educational,3.50,false,Textbook
+B4,The Catcher in the Rye,J.D. Salinger,9780316769488,1951,Coming-of-Age,1.75,false,Novel
+B5,The Oxford English Dictionary,Oxford University Press,9780198611868,1989,Reference,5.00,false,Reference Book
+B6,1984,George Orwell,9780451524935,1949,Dystopian Fiction,1.25,false,Novel
+B7,Data Structures and Algorithms,Robert Lafore,9780132807320,2012,Educational,4.00,false,Textbook
+B8,The Art of War,Sun Tzu,9781590302255,2005,Philosophy,2.50,false,Reference Book
+B9,The Lord of the Rings,J.R.R. Tolkien,9780618640157,1954,Fantasy,2.25,true,Novel
+B10,Python Programming,Mark Lutz,9780135161708,2019,Educational,3.75,true,Textbook

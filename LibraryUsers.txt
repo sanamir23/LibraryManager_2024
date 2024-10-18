@@ -1,0 +1,10 @@
+S1,Alice Johnson,alice.johnson@example.com,123-456-7890,abc Street HappyVille,18.0,Student
+S2,Bob Smith,bob.smith@example.com,987-654-3210,202 Elm St Townsville,0.0,Student
+F1,Dr. Emily Davis,emily.davis@example.com,555-123-4567,303 Oak St Villagetown,0.0,Faculty
+F2,Prof. John Brown,john.brown@example.com,444-987-6543,404 Pine St Hamlet,0.0,Faculty
+P1,Mike Wilson,mike.wilson@example.com,111-222-3333,505 Maple St Metropolis,0.0,Member
+P2,Sarah Taylor,sarah.taylor@example.com,222-333-4444,606 Birch St Capital City,0.0,Member
+S3,James Lee,james.lee@example.com,333-444-5555,707 Cedar St Springfield,0.0,Student
+S4,Mary White,mary.white@example.com,444-555-6666,808 Walnut St Hilltop,0.0,Student
+F3,Dr. Jane Green,jane.green@example.com,555-666-7777,909 Cherry St Uptown,0.0,Faculty
+P3,Tom Harris,tom.harris@example.com,666-777-8888,1010 Willow St Lakeside,0.0,Member
